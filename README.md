@@ -9,7 +9,7 @@ Note: While using the application please initialize node_modules with the applic
 
 ***2. Seconally, install the node dependencies in the target folder by following this command (npm install node)***
 
-***3. Now, once all the dependencies are installed goto the target folder using (cd pixtagram)***
+***3. Now, once all the dependencies are installed goto the target folder using (cd pixtagram-application)***
 
 ***4. And, lastly run the command (npm start) for initializing and starting React Application***
 
