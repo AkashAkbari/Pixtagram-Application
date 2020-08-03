@@ -7,4 +7,4 @@ Following are the screenshots of our project:
 
 1. Database Creation on Google Firebase
 
-
+![](https://raw.githubusercontent.com/HusainKagalwala07/Pixtagram-Application/master/database.png)
