@@ -8,3 +8,7 @@ Following are the screenshots of our project:
 1. Database Creation on Google Firebase
 
 ![](https://raw.githubusercontent.com/HusainKagalwala07/Pixtagram-Application/master/database.png)
+
+2. Authentication for Sign Up and Sign In is provided using Google Firebase Authentication Feature
+
+![]()
